@@ -1,4 +1,6 @@
 ### Hi there 👋
+Using:
+<img src="https://github.com/Puding07/Puding07/blob/resources/ddvp.png" width="70" alt="docker"/>
 <a href="https://app.daily.dev/puding07"><img src="https://github.com/Puding07/Puding07/blob/main/devcard.svg" width="400" alt="Aaron's Dev Card"/></a>
 
 <!--
