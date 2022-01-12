@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 ## What do I use?
-<a href="https://code.visualstudio.com/"><img src="https://github.com/Puding07/Puding07/blob/resources/vs.png?raw=true" width="70" alt="docker"/></a>	<a href="https://insomnia.rest/"><img src="https://github.com/Puding07/Puding07/blob/resources/insomnia.png?raw=true" width="70" alt="docker"/></a>	<a href="https://pomodoro.artonwork.com/"><img src="https://github.com/Puding07/Puding07/blob/resources/pomodoro.png?raw=true" width="70" alt="docker"/></a>	<a href="https://www.docker.com/"><img src="https://github.com/Puding07/Puding07/blob/resources/ddvp.png?raw=true" width="70" alt="docker"/></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Puding07/Puding07/blob/resources/vs.png?raw=true" width="70" alt="docker"/></a>	<a href="https://insomnia.rest/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Puding07/Puding07/blob/resources/insomnia.png?raw=true" width="70" alt="docker"/></a>	<a href="https://pomodoro.artonwork.com/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Puding07/Puding07/blob/resources/pomodoro.png?raw=true" width="70" alt="docker"/></a>	<a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Puding07/Puding07/blob/resources/ddvp.png?raw=true" width="70" alt="docker"/></a>
 
 ## Bio
 <a href="https://app.daily.dev/puding07"><img src="https://github.com/Puding07/Puding07/raw/main/devcard.svg" width="400" alt="Aaron's Dev Card"/></a>
