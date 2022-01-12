@@ -1,7 +1,10 @@
+
 ### Hi there 👋
-Using:
-<img src="https://github.com/Puding07/Puding07/blob/resources/ddvp.png" width="70" alt="docker"/>
-<a href="https://app.daily.dev/puding07"><img src="https://github.com/Puding07/Puding07/blob/main/devcard.svg" width="400" alt="Aaron's Dev Card"/></a>
+## What do I use?
+<img src="https://github.com/Puding07/Puding07/blob/resources/ddvp.png?raw=true" width="70" alt="docker"/>
+
+## Bio
+<a href="https://app.daily.dev/puding07"><img src="https://github.com/Puding07/Puding07/raw/main/devcard.svg" width="400" alt="Aaron's Dev Card"/></a>
 
 <!--
 **Puding07/Puding07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
