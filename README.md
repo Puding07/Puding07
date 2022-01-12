@@ -1,5 +1,6 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/puding07"><img src="https://github.com/Puding07/Puding07/tree/main/devcard.svg" width="400" alt="Aaron's Dev Card"/></a>
+<a href="https://app.daily.dev/puding07"><img src="https://github.com/Puding07/Puding07/blob/master/devcard.svg" width="400" alt="Aaron's Dev Card"/></a>
+
 <!--
 **Puding07/Puding07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
